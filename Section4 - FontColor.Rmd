@@ -1,0 +1,44 @@
+---
+title: "Let's Learn Coding"
+author: "Zeynep KUCUKCAVDAR"
+date: "August 17, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Font Colors**
+
+I like typing in <span style="color:red;">red</span>
+
+or no I changed my mind it is just <span style="color:green;">green</span>
+
+or maybe <span style="color:blue;">blue</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

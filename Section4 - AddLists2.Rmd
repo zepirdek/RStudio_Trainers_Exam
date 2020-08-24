@@ -1,0 +1,55 @@
+---
+title: "Let's Learn Coding"
+author: "Zeynep KUCUKCAVDAR"
+date: "August 17, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Tidyverse Packages**
+
+* Reading Data
+    - readr
+
+* Manipulating
+    - stringr
+    - tidyr
+
+* Analysis
+    - dplyr
+
+* Visualising
+    - ggplot2
+  
+* Reporting
+    - rmarkdown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

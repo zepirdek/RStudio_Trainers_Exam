@@ -1,0 +1,56 @@
+---
+title: "Let's Learn Coding"
+author: "Zeynep KUCUKCAVDAR"
+date: "August 17, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+### KNIT R Markdown
+
+
+We have writen some text and codes to be converted them as a html report. It is time to print it out with **knit** operation.  
+
+
+```{r}
+
+a = 10
+b = 20
+c = 2 
+
+z = a * b / c 
+
+print(z)
+print(paste("How many times have you tried to run  this code?", z, " times?"))
+  
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

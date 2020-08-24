@@ -1,0 +1,40 @@
+---
+title: "Let's Learn Coding"
+author: "Zeynep KUCUKCAVDAR"
+date: "August 17, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Add Links**
+
+This is a [R Markdown Quick Tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html) , you are free to visit!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

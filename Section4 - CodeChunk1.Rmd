@@ -1,0 +1,45 @@
+---
+title: "Let's Learn Coding"
+author: "Zeynep KUCUKCAVDAR"
+date: "August 17, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Code Chunks**
+
+
+```{r}
+
+print("Hello R Markdown")
+  
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
